@@ -4,3 +4,5 @@ Sekancios uzduotys:
 -spalvos
 -limituoti teksto ploti
 -fonas
+
+paviesinti koda
